@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Ana Beatriz
 
-<!--
-**Anadevfs/Anadevfs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Ana Beatriz! I'm a Full Stack Developer focused on Artificial Intelligence, Web Development, and Cybersecurity.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+Computer Science enthusiast with a strong passion for building complete solutions, from backend systems to modern front-end interfaces.
+
+Specializing in:
+
+- 🤖 Artificial Intelligence  
+- 🌐 Web Development & WordPress  
+- ⚙️ Full Stack Applications  
+- 🔐 Cybersecurity  
+
+I am committed to continuous learning and always improving my skills to create efficient, scalable, and well-structured systems.
+
+---
+
+## 🚀 What I Do
+
+- Build scalable and maintainable web applications  
+- Integrate backend systems with dynamic front-ends  
+- Apply software engineering best practices  
+- Explore AI solutions and intelligent systems  
+
+---
+
+## 🛠️ Technologies & Tools
+
+### Backend
+- Java  
+- Python  
+- Node.js  
+- SQL  
+- MongoDB  
+
+### Frontend
+- React  
+- TypeScript  
+- JavaScript  
+- HTML / CSS  
+- Tailwind CSS  
