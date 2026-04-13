@@ -1,5 +1,3 @@
-# 👋 Ana Beatriz
-
 Hi, I'm Ana Beatriz! I'm a Full Stack Developer focused on Artificial Intelligence, Web Development, and Cybersecurity.
 
 ---
